@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21de88ce-efc5-4c42-a859-5953543c7678" name="Default Changelist" comment="" />
+    <list default="true" id="21de88ce-efc5-4c42-a859-5953543c7678" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook/migrations/0001_initial.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,66 +17,7 @@
     <favorites_list name="newproj" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook/templates/registration/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-              <folding>
-                <element signature="e#1456#1462#0" expanded="true" />
-                <element signature="e#1656#1662#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +26,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +57,7 @@
     <option name="width" value="1211" />
     <option name="height" value="637" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -135,6 +85,12 @@
               <item name="newproj" type="b2602c69:ProjectViewProjectNode" />
               <item name="newproj" type="462c0819:PsiDirectoryNode" />
               <item name="phonebook" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newproj" type="462c0819:PsiDirectoryNode" />
+              <item name="phonebook" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,13 +99,6 @@
               <item name="phonebook" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="phonebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproj" type="462c0819:PsiDirectoryNode" />
-              <item name="phonebook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="registration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +108,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crud" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -218,7 +167,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04020849" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26880118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,7 +178,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20424837" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33497536" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -238,43 +187,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/contact_delete_confirm.html" />
-    <entry file="file://$PROJECT_DIR$/phonebook/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook/templates/registration/login.py" />
     <entry file="file://$PROJECT_DIR$/phonebook/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/contact_confirm_delete.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -283,40 +199,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/contact_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charset/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="24" selection-start-line="24" selection-end-line="25" />
-          <folding>
-            <element signature="e#631#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charset/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="127" column="38" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -331,22 +217,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/views.py">
+    <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state>
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#1456#1462#0" expanded="true" />
+            <element signature="e#1656#1662#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/urls.py">
+    <entry file="file://$PROJECT_DIR$/phonebook/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charset/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charset/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -358,23 +306,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/templates/registration/login.html">
+    <entry file="file://$PROJECT_DIR$/charset/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        <state relative-caret-position="432">
+          <caret line="127" column="38" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook/templates/phonebook/base.html">
+    <entry file="file://$PROJECT_DIR$/phonebook/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state>
           <folding>
-            <element signature="e#1456#1462#0" expanded="true" />
-            <element signature="e#1656#1662#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
